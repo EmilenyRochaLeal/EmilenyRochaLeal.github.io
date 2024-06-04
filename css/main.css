@@ -37,6 +37,10 @@ header .est-front{
 a{
     text-decoration: none;
 }
+.react{
+    width: 70px;
+    height: 65px;
+}
 nav.menu ul {
     display: flex;
 }
